@@ -2,7 +2,7 @@ this is the first line used for pull request test.
 
 this is the second line!
 
-this is the third line
+this is the third line, special for the conflic test branch.
 
 And a final fourth line!!!!
 
